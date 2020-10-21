@@ -20,6 +20,7 @@ Solo links
 Band links
 ======
 I am in a band called Moosehowl:
+
 [Our Spotify](https://open.spotify.com/artist/1Dahozh6iYMY1ovm7aFwtl)
 
 [Our Instagram](https://www.instagram.com/moosehowl_official/)
