@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, Welcome to my website!
+Hi, welcome to my website!
 ======
 -I am currently a Neuroscience MSc student at McGill University.
 
