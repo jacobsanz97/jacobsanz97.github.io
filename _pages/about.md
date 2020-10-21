@@ -11,7 +11,11 @@ redirect_from:
 Hi! I'm Jacob. Welcome to my website.
 ======
 -I am currently a Neuroscience MSc student at McGill University.
+
 -I have a BSc in Honours Computer Science from McGill.
+
 -I am interested in Neuroimaging, Big Data, Statistics (specially the Bayesian kind), and Data Reproducibility.
--I work in the [NeuroDataScience: ORIGAMI](https://neurodatascience.github.io/) and Big Data Infrastructures for Neuroinformatics](https://big-data-lab-team.github.io/index.html) labs, under the supervision of Profs. JB Poline and Tristan Glatard
+
+-I work in the [NeuroDataScience: ORIGAMI](https://neurodatascience.github.io/) and [Big Data Infrastructures for Neuroinformatics](https://big-data-lab-team.github.io) labs, under the supervision of Profs. JB Poline and Tristan Glatard.
+
 -In my free time you'll probably find me playing guitar, recording music, or running and skipping rope.
