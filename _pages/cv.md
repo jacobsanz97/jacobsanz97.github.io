@@ -8,6 +8,6 @@ redirect_from:
 ---
 
   
-Skills
+Coming Soon...
 ======
 Website under construction
