@@ -1,5 +1,5 @@
 ---
-title: 'Links to existent projects'
+title: 'Current music projects'
 date: 2020-10-21
 permalink: /posts/2020/10/links-to-existent-projects/
 tags:
@@ -8,8 +8,6 @@ tags:
   - Band
   - Solo
 ---
-
-Here are links to my musical projects:
 
 Solo links
 ======
