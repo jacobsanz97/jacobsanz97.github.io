@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jacob Sanz-Robinson"
 title_separator          : "-"
 name                     : &name "Jacob Sanz-Robinson"
-description              : &description "Honours Computer Science BSc graduate and current Neuroscience MSc student at McGill University. I also write music."
+description              : &description
 url                      : https://jacobsanz97.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://jacobsanz97.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jacob Sanz-Robinson"
   avatar           : "jacob.jpg"
-  bio              : "Honours Computer Science BSc graduate, current Neuroscience MSc student @ McGill. I also write music."
+  bio              : 
   location         : "Montreal, QC."
   employer         :
   pubmed           : 
