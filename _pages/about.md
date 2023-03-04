@@ -14,7 +14,7 @@ Hi, welcome to my website!
 
 * I have a BSc in Honours Computer Science from McGill.
 
-* I am interested in Neuroimaging, Big Data, Statistics (specially the Bayesian kind), Machine Learning, and Data Reproducibility.
+* I am interested in Neuroimaging, Big Data Infrastructures, Machine Learning, and Data Reproducibility.
 
 * I work in the [NeuroDataScience: ORIGAMI](https://neurodatascience.github.io/) and [Big Data Infrastructures for Neuroinformatics](https://big-data-lab-team.github.io) labs, under the supervision of Profs. JB Poline and Tristan Glatard.
 
