@@ -11,7 +11,7 @@ redirect_from:
 Hi, welcome to my website!
 ======
 
-*[Link to CV](https://github.com/jacobsanz97/jacobsanz97.github.io/blob/master/_pages/New%20CV.pdf)
+* [Link to CV](https://github.com/jacobsanz97/jacobsanz97.github.io/blob/master/_pages/New%20CV.pdf)
 
 * I am currently a Neuroscience PhD Candidate at McGill University.
 
