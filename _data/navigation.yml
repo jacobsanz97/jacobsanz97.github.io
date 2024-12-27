@@ -15,7 +15,8 @@ main:
 #  - title: "Resume"
 #    url: /cv/
         
-#  - title: "Music"
-#    url: /year-archive/
+- title: "Music"
+  url: "/music/"
+  external: false
     
 
