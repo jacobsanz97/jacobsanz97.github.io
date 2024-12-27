@@ -1,6 +1,6 @@
 ---
 title: "Music"
-layout: default
+layout: archive
 permalink: /music/
 ---
 Welcome to the Music page!
