@@ -1,7 +1,7 @@
 ---
-title: "Defiance"
+title: "Defiance Towards the Unyielding Void"
 layout: archive
-permalink: /music/Defiance
+permalink: /defiance
 ---
 
 # Defiance Towards the Unyielding Void
