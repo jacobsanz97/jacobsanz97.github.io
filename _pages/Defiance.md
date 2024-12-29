@@ -4,7 +4,7 @@ layout: archive
 permalink: /defiance
 ---
 # YouTube Playlist:
-<iframe width="100%" height="352" src="https://www.youtube.com/embed/videoseries?si=Ei8dFsRh75mLj54Q&amp;list=OLAK5uy_leyifVup19uGB6MluQiwoA-_lsWBZK68Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/videoseries?si=Ei8dFsRh75mLj54Q&amp;list=OLAK5uy_leyifVup19uGB6MluQiwoA-_lsWBZK68Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 # Spotify Playlist:
 
