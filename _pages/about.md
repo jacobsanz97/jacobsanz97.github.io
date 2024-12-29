@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Jacob Sanz-Robinson's website"
+title: "Jacob Sanz-Robinson"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hi, welcome to my website!
-======
 
 * [Link to CV](https://github.com/jacobsanz97/jacobsanz97.github.io/blob/master/_pages/New%20CV.pdf)
 
