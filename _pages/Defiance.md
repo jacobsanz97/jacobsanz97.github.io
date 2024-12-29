@@ -57,6 +57,7 @@ In pursuit of truth, no walls shall be defended.
 **Get It Right** *(written and recorded with Yujing Zou)*
 
 Never know how your day is gonna go when you're starting it
+
 Seems too slow, Getting nowhere with your endless goals
 
 
@@ -64,6 +65,7 @@ Seems too slow, Getting nowhere with your endless goals
 
 
 Pressure's building up feeling something's gonna blow
+
 Facing my own limits but here we go
 
 
@@ -71,8 +73,11 @@ Facing my own limits but here we go
 
 
 Push with all your might (you do)
+
 Try to get it right (you lose)
+
 It doesn't work sometimes (can't choose)
+
 It costs your peace of mind
 
 
@@ -80,6 +85,7 @@ It costs your peace of mind
 
 
 Feeling low, but I know what is down
+
 Must come up again
 
 
@@ -87,6 +93,7 @@ Must come up again
 
 
 It goes to show
+
 Everything is in a state of constant change
 
 
@@ -94,6 +101,7 @@ Everything is in a state of constant change
 
 
 Pressure's building up feeling something's gonna blow
+
 Facing my own limits but here we go
 
 
