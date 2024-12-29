@@ -17,11 +17,11 @@ Note it is also available on other streaming platforms too.
 
 **A Damn Good Thrashing**
 
+[Instrumental]
+
 **Rules**
 
-**Get It Right**
-
-*Written and recorded with Yujing Zou*
+**Get It Right** *(Written and recorded with Yujing Zou)*
 
 **No Hill Seems Worthy**
 
@@ -33,8 +33,4 @@ Note it is also available on other streaming platforms too.
 
 **Fragility**
 
-
-
-
-[Instrumental]
 
