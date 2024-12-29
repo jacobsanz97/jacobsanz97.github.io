@@ -36,7 +36,7 @@ The reason rules exist is to be broken
 
 To evolve through challenges outspoken
 
-To be taken case by case, free of dogma
+To be taken case by case, free from dogma
 
 The rule should serve the man, and not vice-versa.
 
