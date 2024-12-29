@@ -19,6 +19,9 @@ permalink: /defiance
 # Lyrics
 
 
+<br>
+
+
 **A Damn Good Thrashing**
 
 [Instrumental]
