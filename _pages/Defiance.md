@@ -133,6 +133,68 @@ Is there room for a twist somewhere ahead?
 
 **Respite**
 
+Belief in superscience
+
+To halt the setting sun
+
+Some say it doesn't matter
+
+'In the end, all fates are one'.
+
+
+<br>
+
+
+Leap out the open window,
+
+The proverbial sink or swim.
+
+Are we turning an inflection?
+
+Can we ever truly win?
+
+
+<br>
+
+
+Take a deep breath, for now, we're all right.
+
+I've got you nearby; it's all that matters tonight.
+
+
+<br>
+
+
+Close your eyes and surrender to light.
+
+Hold you in my arms; it's a dream and respite.
+
+
+<br>
+
+
+The clouds are dark and heavy,
+
+And the world shall turn no more.
+
+Or so the news will tell you
+
+If you let them keep the score.
+
+
+<br>
+
+
+Dirty rain pours down the gutters,
+
+Occupies my space to breathe.
+
+Deadlines, bills, endless opinions—
+
+We've built a cage of needs.
+
+
+<br>
 
 
 **Colours**
