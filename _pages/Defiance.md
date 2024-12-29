@@ -55,7 +55,45 @@ In pursuit of truth, no walls shall be defended.
 
 **Get It Right** *(written and recorded with Yujing Zou)*
 
+Never know how your day is gonna go when you're starting it
+Seems too slow, Getting nowhere with your endless goals
 
+
+<br>
+
+
+Pressure's building up feeling something's gonna blow
+Facing my own limits but here we go
+
+
+<br>
+
+
+Push with all your might (you do)
+Try to get it right (you lose)
+It doesn't work sometimes (can't choose)
+It costs your peace of mind
+
+
+<br>
+
+
+Feeling low, but I know what is down
+Must come up again
+
+
+<br>
+
+
+It goes to show
+Everything is in a state of constant change
+
+
+<br>
+
+
+Pressure's building up feeling something's gonna blow
+Facing my own limits but here we go
 
 **No Hill Seems Worthy**
 
