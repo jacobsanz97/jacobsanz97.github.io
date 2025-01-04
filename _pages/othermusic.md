@@ -40,7 +40,7 @@ permalink: /othermusic
 **Shortcuts**
 
 * Released in 2021
-* * Album art: Jacob Sanz-Robinson and Cindy Lucero.
+* Album art: Jacob Sanz-Robinson and Cindy Lucero.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/46GdmDEAuZfPAHmwCnsPzE?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -57,7 +57,7 @@ permalink: /othermusic
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/39d2lOiZpFTlLXKOXzlwv1?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe width="500" height="180" src="https://www.youtube.com/watch?v=U2_4MdPXD7Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="500" height="180" src="https://www.youtube.com/embed/U2_4MdPXD7Q?si=4QO8bwqF487bW8s7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br>
@@ -80,7 +80,7 @@ permalink: /othermusic
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1HoNqFI1HleT7M79MSAy0i?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe width="500" height="180" src="https://www.youtube.com/watch?v=HnjdLEskTgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="500" height="180" src="https://www.youtube.com/embed/HnjdLEskTgg?si=pNWx3vUdCuWezv1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
@@ -92,7 +92,7 @@ permalink: /othermusic
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/54YgfQkwOlnknDCEHu71Tt?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe width="500" height="180" src="https://www.youtube.com/watch?v=rTNZp4JU5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="500" height="180" src="https://www.youtube.com/embed/rTNZp4JU5yU?si=NvHuJd7cx-Ir7YjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br>
@@ -105,7 +105,7 @@ permalink: /othermusic
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4xUj7VPU78FkwuqGczkyXm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe width="500" height="180" src="https://www.youtube.com/watch?v=n6XpihxqoO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="500" height="180" src="https://www.youtube.com/embed/n6XpihxqoO0?si=17suwPjiLuTEq0MC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br>
