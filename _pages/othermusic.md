@@ -5,7 +5,7 @@ permalink: /othermusic
 ---
 
 * Here is a chronological list/links of my music releases that are not on any of my solo albums. It includes some singles, some collaborations, some band releases, etc...
-* I might add some lyrics to some of the songs over time, but it won't be as extensively documented as the solo albums.
+* I might add some lyrics to this page over time, but it won't be as extensively documented as the solo albums.
 
 
 <br>
