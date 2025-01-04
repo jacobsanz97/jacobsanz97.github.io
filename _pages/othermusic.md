@@ -66,7 +66,7 @@ permalink: /othermusic
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1agsvIQWhsOutzFcbKOX8e?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe width="500" height="180" src="https://www.youtube.com/watch?v=eBdUTDPAJB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="500" height="180" src="https://www.youtube.com/embed/eBdUTDPAJB4?si=7Eicj3QEtZwiOj4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **End to a Mean**
 
