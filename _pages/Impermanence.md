@@ -30,7 +30,7 @@ permalink: /impermanence
 <br>
 
 
-**Rules**
+**Impermanence**
 
 Our impermanence is sacred
 
