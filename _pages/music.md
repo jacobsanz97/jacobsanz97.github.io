@@ -11,4 +11,4 @@ Note this part of the site is currently under construction :)
 * <img src="../images/Cynical.jpg" alt="Reasons to be Cynical" style="width: 200px; vertical-align: middle;"> **[Reasons to be Cynical](Cynical/)** (2023)
 * <img src="../images/Mosaic.jpg" alt="Mosaic" style="width: 200px; vertical-align: middle;"> **[Mosaic](Mosaic/)** (2022)
 * <img src="../images/Impermanence.jpg" alt="Impermanence" style="width: 200px; vertical-align: middle;"> **[Impermanence](https://jacobsanz97.github.io//impermanence)** (2020)
-* Singles, band releases, collabs, etc...
+* [Singles, band releases, collabs, etc...](https://jacobsanz97.github.io//othermusic)
